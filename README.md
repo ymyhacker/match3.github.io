@@ -1,6 +1,7 @@
 # Match3 game with PixiJS
 
-Preview demo: https://gamedevland.github.io/match3/
+Preview demo:https://gamedevland.github.io/match3/](https://ymyhacker.github.io/match3.github.io/
+emmm,Sorry, I tried putting the project on the github page to start, but I failed，this page is iust black
 
 这次我将尝试使用英语来写我的README，虽然这样会比较难理解，不过这是一次锻炼的机会，可惜我英语也不太好，所以如果有什么不对的地方，还请见谅。
 Сreating Match3 game with PixiJS
