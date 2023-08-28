@@ -1,7 +1,9 @@
 # Match3 game with PixiJS
 
 code sources : https://github.com/ymyhacker/match3.github.io.git 
+
 Preview demo: https://ymyhacker.github.io/match3.github.io/
+
 emmm,Sorry, I tried putting the project on the github page to start, but I failed，this page is iust black
 
 but we can see the pic
